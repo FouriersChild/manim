@@ -19,7 +19,7 @@ without any animation::
   class NoAnimation(Scene):
       def construct(self):
           square = Square()
-          self.add(square))
+          self.add(square)
 
 The animation classes can take the following parameters :
 
